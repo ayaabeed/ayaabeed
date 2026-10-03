@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Aya 👋
 
-<!--
-**ayaabeed/ayaabeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Full Stack Developer | Web Design Enthusiast
+Currently looking for an internship opportunity 🚀
 
-Here are some ideas to get you started:
+## 🛠️ Learning
+- HTML & CSS
+- JavaScript
+- React
+- Node.js & MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm doing now
+- Building my first projects
+- Learning something new every day
