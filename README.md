@@ -1,8 +1,7 @@
 # Hi, I'm Aya 👋
-
 Aspiring Full Stack Developer | Web Design Enthusiast
-Currently looking for an internship opportunity 🚀
 
+Currently looking for an internship opportunity 🚀
 ## 🛠️ Learning
 - HTML & CSS
 - JavaScript
