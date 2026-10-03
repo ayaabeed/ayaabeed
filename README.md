@@ -13,4 +13,4 @@ Currently looking for an internship opportunity 🚀
 - Learning something new every day
 
 ## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/aya-obied-3793513b2?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- LinkedIn: https://www.linkedin.com/in/aya-obied-3793513b2
