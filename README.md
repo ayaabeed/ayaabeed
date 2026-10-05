@@ -14,3 +14,4 @@ Currently looking for an internship opportunity 🚀
 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/aya-obied-3793513b2
+- Portfolio: https://ayaabeed.github.io/portfolio/
